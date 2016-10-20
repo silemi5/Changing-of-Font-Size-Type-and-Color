@@ -39,8 +39,9 @@ public class aboutProgramDialog extends javax.swing.JDialog
         aboutTextArea.setFont(new java.awt.Font("Arial", 0, 10)); // NOI18N
         aboutTextArea.setLineWrap(true);
         aboutTextArea.setRows(5);
-        aboutTextArea.setText("Changing of Font Size, Type, and Color.\nVersion 1.0\n\nThis program is created for the purpose of fulfilling the partial requirement\nin Object Oriented Programming subject.\n-----------------------------\nFinal code as of October 6, 2016");
+        aboutTextArea.setText("Changing of Font Size, Type, and Color.\nVersion 1.0\n\nCopyright (c) 2016 silemi5\n\nThis program is created for the purpose of fulfilling the partial requirement\nin Object Oriented Programming subject.\n-----------------------------\nFinal code as of October 6, 2016");
         aboutTextArea.setWrapStyleWord(true);
+        aboutTextArea.setCaretPosition(0);
         jScrollPane1.setViewportView(aboutTextArea);
 
         wmsu_logo.setFont(new java.awt.Font("Arial", 0, 18)); // NOI18N

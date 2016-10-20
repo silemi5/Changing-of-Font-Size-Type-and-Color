@@ -64,8 +64,9 @@
             </Property>
             <Property name="lineWrap" type="boolean" value="true"/>
             <Property name="rows" type="int" value="5"/>
-            <Property name="text" type="java.lang.String" value="Changing of Font Size, Type, and Color.&#xa;Version 1.0&#xa;&#xa;This program is created for the purpose of fulfilling the partial requirement&#xa;in Object Oriented Programming subject.&#xa;-----------------------------&#xa;Final code as of October 6, 2016"/>
+            <Property name="text" type="java.lang.String" value="Changing of Font Size, Type, and Color.&#xa;Version 1.0&#xa;&#xa;Copyright (c) 2016 silemi5&#xa;&#xa;This program is created for the purpose of fulfilling the partial requirement&#xa;in Object Oriented Programming subject.&#xa;-----------------------------&#xa;Final code as of October 6, 2016"/>
             <Property name="wrapStyleWord" type="boolean" value="true"/>
+            <Property name="caretPosition" type="int" value="0"/>
           </Properties>
         </Component>
       </SubComponents>
